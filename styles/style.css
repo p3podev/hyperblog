@@ -39,14 +39,12 @@ body {
 }
 #post{
     padding: 1em;
-<<<<<<< HEAD
     background-color: white;
-=======
+
 }
 #footer{
     background-color: #777;
     color: white;
     text-align: center;
     padding: 0.5em;
->>>>>>> footer
 }
