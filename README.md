@@ -17,5 +17,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Qué pasa los viernes ?
 * No me baño !!!
 * Es broma no se crean los viernes si me baños los sabados y domingos no jajaja
+* Uno se baña los dias que entrena sino uno se desgasta
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
