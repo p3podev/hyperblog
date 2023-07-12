@@ -2,4 +2,6 @@ Esta es una pagina de prueba la cual contiene informacion con lorem una herramie
 
 Esta es una modificacion en la computadora pepopruba que esta corriendo en una maquina virtual con ubuntu server
 
+Master 1
+
 PepoGP95 es una persona que contribuye a este proyecto opensource
