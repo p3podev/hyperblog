@@ -4,4 +4,6 @@ Esta es una modificacion en la computadora pepopruba que esta corriendo en una m
 
 Master 1
 
+Master 2
+
 PepoGP95 es una persona que contribuye a este proyecto opensource
